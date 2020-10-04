@@ -172,6 +172,7 @@
     <Content Include="img\team\3.jpg" />
     <Content Include="img\team\fatih.png" />
     <Content Include="img\team\kemal.png" />
+    <Content Include="img\team\nezih.png" />
     <Content Include="mail\contact_me.js" />
     <Content Include="mail\contact_me.php" />
     <Content Include="mail\jqBootstrapValidation.js" />
