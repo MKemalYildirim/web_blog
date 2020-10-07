@@ -2474,9 +2474,8 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #fed136;
   border-color: #fed136;
-  position:absolute;
-  top:30rem;
-  left:32rem;
+  position:center;
+  
   
 
   
@@ -10445,7 +10444,7 @@ headingheading {
     min-height: 170px;
   }
   .timeline > li .timeline-panel {
-    padding: 0 20px 20px 100px;
+    padding: 0 0 0 0;
   }
   .timeline > li .timeline-image {
     width: 170px;
@@ -10458,7 +10457,8 @@ headingheading {
        
     }
   .timeline > li.timeline-inverted > .timeline-panel {
-    padding: 0 100px 20px 20px;
+    padding: 0 0 0 0;
+    
   }
 }
 .team-member {
