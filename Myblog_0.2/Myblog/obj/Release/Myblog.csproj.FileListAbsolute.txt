@@ -58,13 +58,8 @@ C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\roslyn\Sy
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\roslyn\System.Memory.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\EntityFramework.dll
-C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\EntityFramework.SqlServer.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Azure.KeyVault.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Azure.KeyVault.WebKey.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Rest.ClientRuntime.Azure.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Rest.ClientRuntime.dll
-C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\EntityFramework.xml
-C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\EntityFramework.SqlServer.xml
-C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Rest.ClientRuntime.xml
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Rest.ClientRuntime.Azure.xml
