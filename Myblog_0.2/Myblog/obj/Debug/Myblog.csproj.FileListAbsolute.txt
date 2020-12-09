@@ -528,6 +528,10 @@ C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\obj\Debug\Myb
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\obj\Debug\Myblog.csproj.CopyComplete
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\obj\Debug\Myblog.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\obj\Debug\Myblog.pdb
+C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\EntityFramework.dll
+C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\EntityFramework.SqlServer.dll
+C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\EntityFramework.xml
+C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\EntityFramework.SqlServer.xml
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\roslyn\System.Buffers.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\roslyn\System.Memory.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\roslyn\System.Numerics.Vectors.dll
@@ -536,4 +540,5 @@ C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Azure.KeyVault.WebKey.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Rest.ClientRuntime.Azure.dll
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Rest.ClientRuntime.xml
 C:\Users\mehme\OneDrive\Belgeler\GitHub\web_blog\Myblog_0.2\Myblog\bin\Microsoft.Rest.ClientRuntime.Azure.xml

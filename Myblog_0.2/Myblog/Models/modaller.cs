@@ -8,18 +8,19 @@ namespace Myblog.Models
 {
     public class modaller
     {
-        [Required(ErrorMessage = "Lütfen Adınızı Soyadınızı Yazınız.")] 
+        [Required(ErrorMessage = "AdıSoyadı gereklidir!!!")] 
         public string name_surname { get; set; }
 
-        [Required(ErrorMessage = "Lütfen Emailinizi Yazınız.")]
-        [EmailAddress(ErrorMessage = "Lütfen Geçerli Bir Email Giriniz.")]
+        [Required(ErrorMessage = "Boş Geçilemez")]
+        [EmailAddress(ErrorMessage = "Email Geçersiz")]
         public string email { get; set; }
      
 
         public DateTime date { get; set; }
 
-        [Required(ErrorMessage = "Lütfen Mesajınızı Giriniz.")]
-        [MaxLength(500, ErrorMessage = "Lütfen 500 Karakteri Geçmeyin.")]
+        [Required(ErrorMessage = "Boş Olmaz!!!")]
+        [MaxLength(500, ErrorMessage = "500 karateri geçmeyin")]
+
         public string massage { get; set; }
         
 
